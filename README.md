@@ -10,21 +10,12 @@
 　𝚘, 𝚠𝚘𝚛𝚕𝚍!\𝚗",'/'/'/'));}𝚛𝚎𝚊𝚍(𝚓,𝚒,𝚙){𝚠𝚛𝚒𝚝𝚎(𝚓/𝚙+𝚙,𝚒---𝚓,𝚒/𝚒);}\
  　　　　　　　— Anonymous (Obfuscated C Code Contest 1984)
 
-
-
-
-
 <!--
-**md-raz/md-raz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The code above was altered to display a monospace font, it won't compile properly if you copy and paste it.
+Use the code below if you want to actually comppile it!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+int i;main(){for(;i["]<i;++i){--i;}"];read('-'-'-',i+++"hell\
+o, world!\n",'/'/'/'));}read(j,i,p){write(j/p+p,i---j,i/i);}
 -->
+
+
