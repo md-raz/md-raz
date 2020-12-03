@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working at BotFactory as an Applications, Assembly, & Electrical Design Engineer.
+- 🌱 I’m currently learning about machine learning APIs, computer vision, and embedded C applications.
+- 👯 I’m looking to collaborate on any interesting hardware or low level software projects.
+- 📫 You can reach out to me on Linkedin or by email at mr4425@nyu.edu
 <!--
 **md-raz/md-raz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
