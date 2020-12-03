@@ -1,4 +1,5 @@
 ### Hi there 👋
+- ⚡ I have a background in electrical engineering.
 - 🔭 I’m currently working at BotFactory as an Applications, Assembly, & Electrical Design Engineer.
 - 🌱 I’m currently learning about machine learning APIs, computer vision, and embedded C applications.
 - 👯 I’m looking to collaborate on any interesting hardware or low level software projects.
