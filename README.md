@@ -1,7 +1,7 @@
 ### Hi there 👋
 - ⚡ I have a background in electrical engineering.
 - 👯 I’m looking to collaborate on any interesting hardware or low level software projects.
-- 📫 You can reach out to me on Linkedin or by email at mr4425@nyu.edu
+- 📫 You can reach out to me on Linkedin or by email at md.raz@nyu.edu
 
 
 　𝚒𝚗𝚝 𝚒;𝚖𝚊𝚒𝚗(){𝚏𝚘𝚛(;𝚒["]<𝚒;++𝚒){--𝚒;}"];𝚛𝚎𝚊𝚍('-'-'-',𝚒+++"𝚑𝚎𝚕𝚕\\\
